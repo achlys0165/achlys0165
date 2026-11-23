@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Jan Sultan</title><desc id="desc">Web applications, useful workflows, and security-minded development. Selected work: JSP, Hymn, and Chimera.</desc>
+<rect width="1200" height="320" rx="20" fill="#101c27"/>
+<path d="M920 0v320M1000 0v320M1080 0v320M1160 0v320M840 80h360M840 160h360M840 240h360" stroke="#263846" stroke-width="1"/>
+<circle cx="1030" cy="148" r="98" fill="none" stroke="#35505c" stroke-width="1"/>
+<circle cx="1030" cy="148" r="66" fill="none" stroke="#5dd6b5" stroke-width="2"/>
+<path d="m998 147 21 21 44-47" fill="none" stroke="#5dd6b5" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="52" y="46" width="30" height="4" rx="2" fill="#5dd6b5"/>
+<text x="96" y="54" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="3" fill="#b6c9d0">SELECTED WORK / 2026</text>
+<text x="50" y="124" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="56" letter-spacing="-2" fill="#f4f2ea">Jan Sultan.</text>
+<text x="52" y="169" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#d8e2e5">Web applications. Useful workflows.</text>
+<text x="52" y="204" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#5dd6b5">Security-minded development.</text>
+<path d="M52 240h738" stroke="#30434f"/>
+<text x="52" y="275" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2" fill="#c8d3d8">JSP ENGINEERING</text>
+<text x="290" y="275" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2" fill="#c8d3d8">HYMN</text>
+<text x="411" y="275" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2" fill="#c8d3d8">CHIMERA / SNCS</text>
+<text x="1030" y="284" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2" fill="#8eaab6">BUILD / REFINE / REPEAT</text>
+</svg>
